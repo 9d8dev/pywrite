@@ -41,7 +41,8 @@ def scrape_with_playwright(urls, schema):
 
     return extracted_content
 
-urls = ["https://www.belmond.com/destinations"]
+url = input("Please enter the link: ")
+urls = [url]
 extracted_content = scrape_with_playwright(urls, schema=schema)
 
 with open('extracted_content.json', 'w') as file:

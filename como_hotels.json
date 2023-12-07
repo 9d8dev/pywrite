@@ -1,115 +1,115 @@
 [
   {
     "hotel_name": "COMO Parrot Cay",
-    "slug_of_hotel_page": "/turks-and-caicos/como-parrot-cay",
+    "slug_of_hotel_page": "https://comohotels.com/turks-and-caicos/como-parrot-cay",
     "description_of_the_hotel": "Our private island resort is a true luxury escape: 1,000 unspoilt acres, four miles of white sand, peaceful beach houses and large private residences drenched in light.",
     "location_of_hotel": "Turks & Caicos"
   },
   {
     "hotel_name": "COMO The Halkin",
-    "slug_of_hotel_page": "/london/como-the-halkin",
+    "slug_of_hotel_page": "https://comohotels.com/london/como-the-halkin",
     "description_of_the_hotel": "The spirit of this hotel is embodied in its townhouse heritage: modern-classic rooms and suites conceived as a cocooning 'home from home' in London's Belgravia.",
     "location_of_hotel": "London"
   },
   {
     "hotel_name": "COMO Metropolitan London",
-    "slug_of_hotel_page": "/london/como-metropolitan-london",
+    "slug_of_hotel_page": "https://comohotels.com/london/como-metropolitan-london",
     "description_of_the_hotel": "Our light-filled Mayfair hotel has COMO service at its heart. 'The Met', as it is affectionately known, also has one of the best locations in Central London.",
     "location_of_hotel": "London"
   },
   {
     "hotel_name": "COMO Le Montrachet",
-    "slug_of_hotel_page": "/burgundy/como-le-montrachet",
+    "slug_of_hotel_page": "https://comohotels.com/burgundy/como-le-montrachet",
     "description_of_the_hotel": "Our new estate in Burgundy is a haven for wine aficionados. Here you can enjoy the renowned wines of the historic Puligny-Montrachet village while experiencing the best of COMO's culinary offerings, our elegant design and sharp service.",
     "location_of_hotel": "Burgundy"
   },
   {
     "hotel_name": "COMO Castello Del Nero",
-    "slug_of_hotel_page": "/italy/como-castello-del-nero",
+    "slug_of_hotel_page": "https://comohotels.com/italy/como-castello-del-nero",
     "description_of_the_hotel": "Our Italian hotel is unique in Tuscany: a twelfth-century castle with Renaissance frescoes and new interiors, first-class wellness facilities, proximity to Florence.",
     "location_of_hotel": "Italy"
   },
   {
     "hotel_name": "Podere San Filippo",
-    "slug_of_hotel_page": "/italy/podere-san-filippo",
+    "slug_of_hotel_page": "https://comohotels.com/italy/podere-san-filippo",
     "description_of_the_hotel": "Podere San Filippo is an eighth-century farmhouse in Tuscany within the grounds of COMO Castello Del Nero.",
     "location_of_hotel": "Italy"
   },
   {
     "hotel_name": "COMO Alpina Dolomites",
-    "slug_of_hotel_page": "/italy/como-alpina-dolomites",
+    "slug_of_hotel_page": "https://comohotels.com/italy/como-alpina-dolomites",
     "description_of_the_hotel": "Our location on South Tyrol's Alpe di Siusi \u2013 one of Europe's largest, most beautiful high-altitude plateaus \u2014 gives guests unique access to Val Gardena's mountain sports.",
     "location_of_hotel": "Italy"
   },
   {
     "hotel_name": "COMO Cocoa Island",
-    "slug_of_hotel_page": "/maldives/como-cocoa-island",
+    "slug_of_hotel_page": "https://comohotels.com/maldives/como-cocoa-island",
     "description_of_the_hotel": "Our original white-sand private island escape in The Maldives is an intimate, romantic island with 33 overwater villas above a turquoise lagoon.",
     "location_of_hotel": "Maldives"
   },
   {
     "hotel_name": "COMO Maalifushi",
-    "slug_of_hotel_page": "/maldives/como-maalifushi",
+    "slug_of_hotel_page": "https://comohotels.com/maldives/como-maalifushi",
     "description_of_the_hotel": "COMO's largest private island resort in The Maldives, with villas both above water and in tropical gardens. We're surrounded by uninhabited islands and thriving marine life.",
     "location_of_hotel": "Maldives"
   },
   {
     "hotel_name": "COMO Metropolitan Bangkok",
-    "slug_of_hotel_page": "/thailand/como-metropolitan-bangkok",
+    "slug_of_hotel_page": "https://comohotels.com/thailand/como-metropolitan-bangkok",
     "description_of_the_hotel": "'The Met Bangkok' is a contemporary luxury hotel in Sathorn's Central Business District, minutes from the shopping, nightlife and must-see Bangkok sights.",
     "location_of_hotel": "Thailand"
   },
   {
     "hotel_name": "COMO Point Yamu, Phuket",
-    "slug_of_hotel_page": "/thailand/como-point-yamu",
+    "slug_of_hotel_page": "https://comohotels.com/thailand/como-point-yamu",
     "description_of_the_hotel": "Our Phuket resort, with some of COMO's most striking pool villas, sits on the tip of Cape Yamu, giving magnificent views of Phang Nga Bay.",
     "location_of_hotel": "Thailand"
   },
   {
     "hotel_name": "COMO Metropolitan Singapore",
-    "slug_of_hotel_page": "/singapore/como-metropolitan-singapore",
+    "slug_of_hotel_page": "https://comohotels.com/singapore/como-metropolitan-singapore",
     "description_of_the_hotel": "COMO Metropolitan Singapore, housed in COMO Orchard on Bideford Road, marks a debut in our home country. The hotel is part of an integrated, immersive experience spread over 19 floors, bringing the best of COMO Group's hospitality, fashion, wellness and cuisine into one inspiring location in the heart of Singapore.",
     "location_of_hotel": "Singapore"
   },
   {
     "hotel_name": "COMO Shambhala Estate",
-    "slug_of_hotel_page": "/bali/como-shambhala-estate",
+    "slug_of_hotel_page": "https://comohotels.com/bali/como-shambhala-estate",
     "description_of_the_hotel": "Our wellness resort near Ubud, Bali, is located in the forest between two mighty rivers, with unique Residences inspired by nature.",
     "location_of_hotel": "Bali"
   },
   {
     "hotel_name": "COMO Uma Canggu",
-    "slug_of_hotel_page": "/bali/como-uma-canggu",
+    "slug_of_hotel_page": "https://comohotels.com/bali/como-uma-canggu",
     "description_of_the_hotel": "Our oceanside resort on Bali's south coast is footsteps from the surf. Immerse yourself in the buzzing culture of Canggu, enjoying healthy cuisine and poolside lounging.",
     "location_of_hotel": "Bali"
   },
   {
     "hotel_name": "COMO Uma Ubud",
-    "slug_of_hotel_page": "/bali/como-uma-ubud",
+    "slug_of_hotel_page": "https://comohotels.com/bali/como-uma-ubud",
     "description_of_the_hotel": "Sun-filled villas with private, plant-rimmed pools make you feel like you're in the heart of nature. But you're also in a town, in Bali's arts and culture hub, Ubud.",
     "location_of_hotel": "Bali"
   },
   {
     "hotel_name": "COMO Uma Paro",
-    "slug_of_hotel_page": "/bhutan/como-uma-paro",
+    "slug_of_hotel_page": "https://comohotels.com/bhutan/como-uma-paro",
     "description_of_the_hotel": "Bhutan's power is its people and nature, which we honour in the design, service, and daily activities at our Paro Valley resort.",
     "location_of_hotel": "Bhutan"
   },
   {
     "hotel_name": "COMO Uma Punakha",
-    "slug_of_hotel_page": "/bhutan/como-uma-punakha",
+    "slug_of_hotel_page": "https://comohotels.com/bhutan/como-uma-punakha",
     "description_of_the_hotel": "Our smallest, most jewel-like luxury lodge sits on a small hill at the western end of the Punakha Valley above the Mo Chhu river.",
     "location_of_hotel": "Bhutan"
   },
   {
     "hotel_name": "COMO The Treasury",
-    "slug_of_hotel_page": "/perth/como-the-treasury",
+    "slug_of_hotel_page": "https://comohotels.com/perth/como-the-treasury",
     "description_of_the_hotel": "Our city-centre Perth hotel is the epitome of COMO urban luxury: 48 contemporary rooms and suites in the historic State Buildings.",
     "location_of_hotel": "Perth"
   },
   {
     "hotel_name": "COMO Laucala Island",
-    "slug_of_hotel_page": "/fiji/como-laucala-island",
+    "slug_of_hotel_page": "https://comohotels.com/fiji/como-laucala-island",
     "description_of_the_hotel": "COMO Laucala Island is an extraordinary natural paradise in Fiji, one of the world's largest private island resorts, with just 25 villas. It recalibrates the idea of luxury.",
     "location_of_hotel": "Fiji"
   }

@@ -1,0 +1,226 @@
+[
+  {
+    "hotel_name": "Hotel das Cataratas",
+    "slug_of_hotel_page": "https://www.belmond.com/hotels/south-america/brazil/iguassu-falls/belmond-hotel-das-cataratas/",
+    "description_of_the_hotel": "",
+    "location_of_hotel": "Brazil, Iguassu Falls",
+    "main_hotel_image_url": ""
+  },
+  {
+    "hotel_name": "Copacabana Palace",
+    "slug_of_hotel_page": "https://www.belmond.com/hotels/south-america/brazil/rio-de-janeiro/belmond-copacabana-palace/",
+    "description_of_the_hotel": "",
+    "location_of_hotel": "Brazil, Rio de Janeiro",
+    "main_hotel_image_url": ""
+  },
+  {
+    "hotel_name": "La R\u00e9sidence d'Angkor",
+    "slug_of_hotel_page": "https://www.belmond.com/hotels/asia/cambodia/siem-reap/belmond-la-residence-dangkor/",
+    "description_of_the_hotel": "",
+    "location_of_hotel": "Cambodia, Siem Reap",
+    "main_hotel_image_url": ""
+  },
+  {
+    "hotel_name": "Cap Juluca",
+    "slug_of_hotel_page": "https://www.belmond.com/hotels/north-america/caribbean/anguilla/belmond-cap-juluca/",
+    "description_of_the_hotel": "",
+    "location_of_hotel": "Caribbean, Anguilla",
+    "main_hotel_image_url": ""
+  },
+  {
+    "hotel_name": "La Samanna",
+    "slug_of_hotel_page": "https://www.belmond.com/hotels/north-america/caribbean/st-martin/belmond-la-samanna/",
+    "description_of_the_hotel": "",
+    "location_of_hotel": "Caribbean, St Martin",
+    "main_hotel_image_url": ""
+  },
+  {
+    "hotel_name": "Jimbaran Puri",
+    "slug_of_hotel_page": "https://www.belmond.com/hotels/asia/bali/belmond-jimbaran-puri/",
+    "description_of_the_hotel": "",
+    "location_of_hotel": "Indonesia, Bali",
+    "main_hotel_image_url": ""
+  },
+  {
+    "hotel_name": "Caruso",
+    "slug_of_hotel_page": "https://www.belmond.com/hotels/europe/italy/amalfi-coast/belmond-hotel-caruso/",
+    "description_of_the_hotel": "",
+    "location_of_hotel": "Italy, Amalfi Coast",
+    "main_hotel_image_url": ""
+  },
+  {
+    "hotel_name": "Villa Margherita",
+    "slug_of_hotel_page": "https://www.belmond.com/hotels/europe/italy/amalfi-coast/belmond-villa-margherita/",
+    "description_of_the_hotel": "",
+    "location_of_hotel": "Italy, Amalfi Coast",
+    "main_hotel_image_url": ""
+  },
+  {
+    "hotel_name": "Romazzino",
+    "slug_of_hotel_page": "https://www.belmond.com/hotels/europe/italy/costa-smeralda/belmond-romazzino/",
+    "description_of_the_hotel": "",
+    "location_of_hotel": "Italy, Costa Smeralda",
+    "main_hotel_image_url": ""
+  },
+  {
+    "hotel_name": "Villa San Michele",
+    "slug_of_hotel_page": "https://www.belmond.com/hotels/europe/italy/florence/belmond-villa-san-michele/",
+    "description_of_the_hotel": "",
+    "location_of_hotel": "Italy, Florence",
+    "main_hotel_image_url": ""
+  },
+  {
+    "hotel_name": "Splendido",
+    "slug_of_hotel_page": "https://www.belmond.com/hotels/europe/italy/portofino/belmond-hotel-splendido/",
+    "description_of_the_hotel": "",
+    "location_of_hotel": "Italy, Portofino",
+    "main_hotel_image_url": ""
+  },
+  {
+    "hotel_name": "Splendido Mare",
+    "slug_of_hotel_page": "https://www.belmond.com/hotels/europe/italy/portofino/belmond-splendido-mare/",
+    "description_of_the_hotel": "",
+    "location_of_hotel": "Italy, Portofino",
+    "main_hotel_image_url": ""
+  },
+  {
+    "hotel_name": "Grand Hotel Timeo",
+    "slug_of_hotel_page": "https://www.belmond.com/hotels/europe/italy/taormina/belmond-grand-hotel-timeo/",
+    "description_of_the_hotel": "",
+    "location_of_hotel": "Italy, Taormina",
+    "main_hotel_image_url": ""
+  },
+  {
+    "hotel_name": "Villa Sant'Andrea",
+    "slug_of_hotel_page": "https://www.belmond.com/hotels/europe/italy/taormina/belmond-villa-sant-andrea/",
+    "description_of_the_hotel": "",
+    "location_of_hotel": "Italy, Taormina Mare",
+    "main_hotel_image_url": ""
+  },
+  {
+    "hotel_name": "Castello di Casole",
+    "slug_of_hotel_page": "https://www.belmond.com/hotels/europe/italy/tuscany/belmond-castello-di-casole/",
+    "description_of_the_hotel": "",
+    "location_of_hotel": "Italy, Tuscany",
+    "main_hotel_image_url": ""
+  },
+  {
+    "hotel_name": "Hotel Cipriani",
+    "slug_of_hotel_page": "https://www.belmond.com/hotels/europe/italy/venice/belmond-hotel-cipriani/",
+    "description_of_the_hotel": "",
+    "location_of_hotel": "Italy, Venice",
+    "main_hotel_image_url": ""
+  },
+  {
+    "hotel_name": "La R\u00e9sidence Phou Vao",
+    "slug_of_hotel_page": "https://www.belmond.com/hotels/asia/laos/luang-prabang/belmond-la-residence-phou-vao/",
+    "description_of_the_hotel": "",
+    "location_of_hotel": "Laos, Luang Prabang",
+    "main_hotel_image_url": ""
+  },
+  {
+    "hotel_name": "Maroma",
+    "slug_of_hotel_page": "https://www.belmond.com/hotels/north-america/mexico/riviera-maya/belmond-maroma-resort-and-spa/",
+    "description_of_the_hotel": "",
+    "location_of_hotel": "Mexico, Riviera Maya",
+    "main_hotel_image_url": ""
+  },
+  {
+    "hotel_name": "Casa de Sierra Nevada",
+    "slug_of_hotel_page": "https://www.belmond.com/hotels/north-america/mexico/san-miguel-de-allende/belmond-casa-de-sierra-nevada/",
+    "description_of_the_hotel": "",
+    "location_of_hotel": "Mexico, San Miguel de Allende",
+    "main_hotel_image_url": ""
+  },
+  {
+    "hotel_name": "Las Casitas",
+    "slug_of_hotel_page": "https://www.belmond.com/hotels/south-america/peru/colca-canyon/belmond-las-casitas/",
+    "description_of_the_hotel": "",
+    "location_of_hotel": "Peru, Colca Canyon",
+    "main_hotel_image_url": ""
+  },
+  {
+    "hotel_name": "Monasterio",
+    "slug_of_hotel_page": "https://www.belmond.com/hotels/south-america/peru/cusco/belmond-hotel-monasterio/",
+    "description_of_the_hotel": "",
+    "location_of_hotel": "Peru, Cusco",
+    "main_hotel_image_url": ""
+  },
+  {
+    "hotel_name": "Palacio Nazarenas",
+    "slug_of_hotel_page": "https://www.belmond.com/hotels/south-america/peru/cusco/belmond-palacio-nazarenas/",
+    "description_of_the_hotel": "",
+    "location_of_hotel": "Peru, Cusco",
+    "main_hotel_image_url": ""
+  },
+  {
+    "hotel_name": "Miraflores Park",
+    "slug_of_hotel_page": "https://www.belmond.com/hotels/south-america/peru/lima/belmond-miraflores-park/",
+    "description_of_the_hotel": "",
+    "location_of_hotel": "Peru, Lima",
+    "main_hotel_image_url": ""
+  },
+  {
+    "hotel_name": "Sanctuary Lodge",
+    "slug_of_hotel_page": "https://www.belmond.com/hotels/south-america/peru/machu-picchu/belmond-sanctuary-lodge/",
+    "description_of_the_hotel": "",
+    "location_of_hotel": "Peru, Machu Picchu",
+    "main_hotel_image_url": ""
+  },
+  {
+    "hotel_name": "Rio Sagrado",
+    "slug_of_hotel_page": "https://www.belmond.com/hotels/south-america/peru/sacred-valley/belmond-hotel-rio-sagrado/",
+    "description_of_the_hotel": "",
+    "location_of_hotel": "Peru, Sacred Valley",
+    "main_hotel_image_url": ""
+  },
+  {
+    "hotel_name": "Reid's Palace",
+    "slug_of_hotel_page": "https://www.belmond.com/hotels/europe/portugal/madeira/belmond-reids-palace/",
+    "description_of_the_hotel": "",
+    "location_of_hotel": "Portugal, Madeira",
+    "main_hotel_image_url": ""
+  },
+  {
+    "hotel_name": "Mount Nelson",
+    "slug_of_hotel_page": "https://www.belmond.com/hotels/africa/south-africa/cape-town/belmond-mount-nelson-hotel/",
+    "description_of_the_hotel": "",
+    "location_of_hotel": "South Africa, Cape Town",
+    "main_hotel_image_url": ""
+  },
+  {
+    "hotel_name": "La Residencia",
+    "slug_of_hotel_page": "https://www.belmond.com/hotels/europe/mallorca/deia/belmond-la-residencia/",
+    "description_of_the_hotel": "",
+    "location_of_hotel": "Spain, Mallorca",
+    "main_hotel_image_url": ""
+  },
+  {
+    "hotel_name": "Napasai",
+    "slug_of_hotel_page": "https://www.belmond.com/hotels/asia/thailand/koh-samui/belmond-napasai/",
+    "description_of_the_hotel": "",
+    "location_of_hotel": "Thailand, Koh Samui",
+    "main_hotel_image_url": ""
+  },
+  {
+    "hotel_name": "The Cadogan",
+    "slug_of_hotel_page": "https://www.belmond.com/hotels/europe/uk/london/belmond-cadogan-hotel/",
+    "description_of_the_hotel": "",
+    "location_of_hotel": "UK, London",
+    "main_hotel_image_url": ""
+  },
+  {
+    "hotel_name": "Le Manoir aux Quat\u2019Saisons",
+    "slug_of_hotel_page": "https://www.belmond.com/hotels/europe/uk/oxfordshire/belmond-le-manoir-aux-quat-saisons/",
+    "description_of_the_hotel": "",
+    "location_of_hotel": "UK, Oxfordshire",
+    "main_hotel_image_url": ""
+  },
+  {
+    "hotel_name": "El Encanto",
+    "slug_of_hotel_page": "https://www.belmond.com/hotels/north-america/usa/ca/santa-barbara/belmond-el-encanto/",
+    "description_of_the_hotel": "",
+    "location_of_hotel": "USA, Santa Barbara",
+    "main_hotel_image_url": ""
+  }
+]
